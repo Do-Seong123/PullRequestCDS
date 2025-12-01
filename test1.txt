@@ -1,0 +1,3 @@
+def maxProfit_bruteforce (prices):
+	for i, price in enumerate(prices):
+
